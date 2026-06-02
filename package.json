@@ -1,5 +1,5 @@
 {
   "name": "load-workspace-rules",
-  "private": true,
-  "type": "module"
+  "type": "module",
+  "license": "MIT"
 }
